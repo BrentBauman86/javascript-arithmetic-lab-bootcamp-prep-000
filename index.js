@@ -19,6 +19,6 @@ function dec(a){
 function makeInt(a){
   return a
 }
-function makeInt('0', 10){
+function makeInt(0, 10){
   return 0
 }
